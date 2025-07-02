@@ -1,0 +1,15 @@
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.exe
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.deps.json
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.dll
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.pdb
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.sourcelink.json
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.dll
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\refint\xadrez-console.dll
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+C:\Users\hbati\source\Projeto-xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
